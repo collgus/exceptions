@@ -1,0 +1,18 @@
+{
+    "name": "collgus/exceptions",
+    "description": "Collgus exceptions package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Collgus\\Exception\\": "src/"
+        }
+    },
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "Lukas Grajewsky",
+            "email": "grajewski.lukasz@wp.pl"
+        }
+    ],
+    "minimum-stability": "stable"
+}
